@@ -1,4 +1,8 @@
-# Retail Sales Analysis – 500 Transactions
+# IBM BOB Learning And Practice
+
+
+
+## Retail Sales Analysis – 500 Transactions
 
 A beginner-level data analytics portfolio project that simulates a real-world retail sales scenario.
 The project covers the full data analytics workflow: data generation → quality assessment → cleaning → exploratory analysis → business insights.
